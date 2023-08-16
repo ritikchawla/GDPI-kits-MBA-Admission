@@ -24,6 +24,6 @@ These GDPI Kits are from various institutes, the usage and authority of the Kits
 1. **Clone the Repository**:
 
    ```sh
-   git clone https://github.com/yourusername/gdpi-kits.git
+   git clone https://github.com/ritikchawla/gdpi-kits.git
    cd gdpi-kits
    ```
