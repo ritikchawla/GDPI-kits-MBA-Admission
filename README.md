@@ -19,6 +19,8 @@ This repository contains:
 ## Note
 These GDPI Kits are from various institutes, the usage and authority of the Kits belongs to the respective institutes.
 
+I will be adding more comprehensive GDPI Kits for preparation.
+
 ## Usage
 
 1. **Clone the Repository**:
